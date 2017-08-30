@@ -7,7 +7,8 @@ title: OperationalError
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>
-##OperationalError
+    
+## OperationalError
 
 ```js
 new OperationalError(String message) -> OperationalError
